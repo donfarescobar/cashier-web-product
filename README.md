@@ -1,5 +1,4 @@
-# Vite React TypeScript Starter
-
+# Cashier Product
 A modern POS (Point of Sale) application built with Vite, React, TypeScript, and TailwindCSS.
 
 ## Tech Stack
